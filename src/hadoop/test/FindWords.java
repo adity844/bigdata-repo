@@ -23,7 +23,7 @@ import org.apache.hadoop.mapreduce.lib.output.FileOutputFormat;
 
 @SuppressWarnings("deprecation")
 public class FindWords {
-	/* Adding line for git test, a second time */
+	/* Adding line for git test, in bigdata repository */
 	static enum CountersEnum {INPUT_WORDS};
 	static Counters counters;
 	static Counter counter;
